@@ -5,5 +5,5 @@ React를 호스팅
 ## 배포 URL
  
 ```
-http://mybucket-20263566.s3-website-us-east-1.amazonaws.com/
+http://mybucket-20263566.s3-website-us-east-1.amazonaws.com/index.html
 ```
